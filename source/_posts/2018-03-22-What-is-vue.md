@@ -1,7 +1,7 @@
 ---
 title: 前端框架 Vue.js
 date: 2018-03-22 09:22:40
-categories: FrontEnd
+categories: 前端
 tags: [前端，vue, FrontEnd]
 ---
 

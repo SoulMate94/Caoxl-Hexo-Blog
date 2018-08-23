@@ -1,7 +1,7 @@
 ---
 title: Let's Encrypt 简单使用
 date: 2018-01-17 14:37:53
-categories: www
+categories: Internet
 tags: [HTTPS, Let's Encrypt, 服务器]
 ---
 

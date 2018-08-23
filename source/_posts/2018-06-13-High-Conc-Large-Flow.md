@@ -1,8 +1,8 @@
 ---
 title: 高并发和大流量解决方案
 date: 2018-06-13 09:07:09
-categories: www
-tags: [高并发, 大流量]
+categories: Internet
+tags: [Internet, 高并发, 大流量]
 ---
 
 > 解决高并发和大流量问题

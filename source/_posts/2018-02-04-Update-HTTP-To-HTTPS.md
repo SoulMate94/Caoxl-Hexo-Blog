@@ -1,8 +1,8 @@
 ---
 title: HTTPS「升级指南」
 date: 2018-02-04 13:07:30
-categories: www
-tags: HTTPS
+categories: Internet
+tags: [HTTP, HTTPS]
 ---
 
 昨天我介绍了 <u>[HTTP/2 协议](http://blog.caoxl.com/2018/02/03/HTTP-Protocol-Intro/#more)</u> ，它只有在 HTTPS 环境才会生效。

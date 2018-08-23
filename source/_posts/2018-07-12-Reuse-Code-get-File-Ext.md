@@ -1,7 +1,7 @@
 ---
 title: 「代码复用」获取文件后缀
 date: 2018-07-12 11:46:09
-categories: CodeReuse
+categories: 代码复用
 tags: [PHP, 代码复用]
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: HTTP 状态码
 date: 2018-06-28 15:57:58
-categories: www
-tags: [www, HTTP, 状态码]
+categories: Internet
+tags: [Internet, HTTP, 状态码]
 ---
 
 > 为啥要放这么简单的东西?

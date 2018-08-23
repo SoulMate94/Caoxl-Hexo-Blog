@@ -1,7 +1,7 @@
 ---
 title: Top 7 Myths about HTTPS
 date: 2018-02-06 14:16:18
-categories: www
+categories: Internet
 tags: [HTTPS, Internet]
 ---
 

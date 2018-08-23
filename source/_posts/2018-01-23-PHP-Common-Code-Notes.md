@@ -1,7 +1,7 @@
 ---
 title: 「代码复用」PHP常用代码
 date: 2018-01-23 17:16:54
-categories: CodeReuse
+categories: 代码复用
 tags: [PHP, Code]
 ---
 

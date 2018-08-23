@@ -1,8 +1,8 @@
 ---
 title: CSP 学习笔记
 date: 2018-06-27 11:01:05
-categories: www
-tags: [www, CSP]
+categories: Internet
+tags: [Internet, CSP]
 ---
 
 > CSP Is Dead, Long Live CSP! 

@@ -1,8 +1,8 @@
 ---
 title: 心跳检测
 date: 2018-06-13 15:43:58
-categories: www
-tags: [www, 心跳检测]
+categories: Internet
+tags: [Internet, 心跳检测]
 ---
 
 # 为什么需要心跳检测？ 

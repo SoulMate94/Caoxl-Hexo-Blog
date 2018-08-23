@@ -44,9 +44,9 @@ tags: [Hexo]
     npm install hexo-generator-sitemap --save
 ```
 
-- 6. 部署，执行命令：
+- 6. 部署，执行命令:
+
 
 ```
-	hexo g
-   	hexo d
+	hexo g && hexo d
 ```

@@ -1,8 +1,8 @@
 ---
 title: cURL 「使用笔记」
 date: 2018-02-02 17:23:57
-categories: www
-tags: [cURL, Linux]
+categories: Internet
+tags: [cURL, Linux, Internet]
 ---
 
 > curl是利用URL语法在命令行方式下工作的开源文件传输工具。它被广泛应用在Unix、多种Linux发行版中，并且有DOS和Win32、Win64下的移植版本。

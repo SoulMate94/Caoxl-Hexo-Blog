@@ -1,8 +1,8 @@
 ---
 title: HTTP 请求头/响应头
 date: 2018-06-29 10:09:26
-categories: www
-tags: [www, HTTP, 请求头, 响应头]
+categories: Internet
+tags: [Internet, HTTP, 请求头, 响应头]
 ---
 
 > 学习**Web开发**不好好学习`HTTP`，将会“打拳不练功，到老一场空”，

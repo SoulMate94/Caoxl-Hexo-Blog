@@ -1,7 +1,7 @@
 ---
 title: 「代码复用」数组与XML互转
 date: 2018-08-08 09:59:58
-categories: CodeReuse
+categories: 代码复用
 tags: [代码复用, XML, 数组]
 ---
 

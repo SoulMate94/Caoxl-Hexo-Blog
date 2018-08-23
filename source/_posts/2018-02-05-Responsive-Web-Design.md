@@ -1,7 +1,7 @@
 ---
 title: 自适应网页设计
 date: 2018-02-05 11:51:53
-categories: www
+categories: Internet
 tags: [Web, Design]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: LNMP 配置教程
 date: 2018-01-24 15:27:40
-categories: www
+categories: Internet
 tags: [LNMP, Linux, Nginx]
 ---
 

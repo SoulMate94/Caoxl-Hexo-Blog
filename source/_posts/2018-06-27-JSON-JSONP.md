@@ -1,8 +1,8 @@
 ---
 title: 说说JSON和JSONP
 date: 2018-06-27 14:49:12
-categories: www
-tags: [www,JSON,JSONP]
+categories: Internet
+tags: [Internet, JSON, JSONP]
 ---
 
 > `JSON`和`JSONP`虽然只有一个字母的差别，但其实他们根本不是一回事儿;

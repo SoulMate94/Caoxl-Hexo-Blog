@@ -1,7 +1,7 @@
 ---
 title: JavaScript 区分IOS/安卓 跳转下载
 date: 2018-06-11 15:39:17
-categories: FrontEnd
+categories: 前端
 tags: [JavaScript, FrontEnd]
 ---
 

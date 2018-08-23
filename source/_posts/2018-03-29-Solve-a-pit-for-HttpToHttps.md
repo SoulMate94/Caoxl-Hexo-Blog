@@ -1,8 +1,8 @@
 ---
 title: 关于如何禁止谷歌浏览器强制转 HTTPS 
 date: 2018-03-29 17:31:14
-categories: www
-tags: www
+categories: Internet
+tags: [Internet, HTTPs]
 ---
 
 Chrome 于 V63 版本起会将 `.dev` 域名强制转换为 HTTPS 

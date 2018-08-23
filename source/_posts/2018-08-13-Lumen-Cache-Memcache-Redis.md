@@ -161,7 +161,7 @@ PHP 有两个 Memcached 客户端：**“PHP Memcache 扩展”** 和 **“PHP M
     );
 ```
 
-### 在`Laravel`重新封装
+### 在`Laravel`中重新封装
 
 - `app/Contract/Service/Cachable.php`
 
@@ -279,6 +279,86 @@ PHP 有两个 Memcached 客户端：**“PHP Memcache 扩展”** 和 **“PHP M
 > `memcached` 默认的过期时间则 不能大于 `30` 天！
 
 # `Redis`
+
+- 安装`redis`, 使用`composer`即可:
+
+```
+    composer require illuminate/redis
+    composer require predis/predis
+```
+
+- 或者
+
+```
+        "require": {
+            "php": ">=7.1.3",
+            "illuminate/redis": "5.5.*",
+            "laravel/lumen-framework": "5.5.*",
+            "predis/predis": "^1.1",
+        },
+```
+
+- 注册`redis`类
+
+```
+    $app->register(Illuminate\Redis\RedisServiceProvider::class);
+```
+
+- 在要使用`redis`的地方即可
+
+```
+    use Illuminate\Support\Facades\Redis;
+```
+
+- `redis`常用命令
+
+```
+    <?php
+    
+    // Redis Reference Resources
+    // 这个文件仅供忘记Redis命令时参考,使用Redis无需重新封装.
+    // @caoxl
+    
+    namespace App\Traits;
+    
+    class Redis
+    {
+        public function set($key, $val)
+        {
+            Redis::set($key, $val);
+        }
+    
+        public function setex($key, $exp, $val)
+        {
+            Redis::setex($key, $exp, $val);
+        }
+    
+        public function get($key)
+        {
+            return Redis::get($key);
+        }
+    
+        public function expire($key, $exp = 180)
+        {
+            Redis::expire($key, $exp);
+        }
+    
+        public function incr($key)
+        {
+            Redis::incr($key);
+        }
+    
+        public function del($key)
+        {
+            Redis::del($key);
+        }
+    
+        public function exists($key)
+        {
+            return Redis::exists($key);
+        }
+    }
+```
 
 
 # 参考
