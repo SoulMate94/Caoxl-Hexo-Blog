@@ -5,7 +5,10 @@ categories: 前端
 tags: [前端, PJAX]
 ---
 
- 使用 `AJAX` 和 `window.history.pushState` 无刷新改变页面内容和地址栏 URL。
+> 使用 `AJAX` 和 `window.history.pushState` 无刷新改变页面内容和地址栏 URL。
+
+<!-- more -->
+
  
  在访问现在很火的 Google plus 时，细心的用户也许会发现页面之间的点击是通过 AJAX 异步请求的，同时页面的URL发生了了改变。并且能够很好的支持浏览器的前进和后退。不禁让人想问，是什么有这么强大的功能呢？
  

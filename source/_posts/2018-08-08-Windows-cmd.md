@@ -5,7 +5,7 @@ categories: Caoxl
 tags: [Windows,命令]
 ---
 
-这篇文章将记录比较实用的一些 Windows 命令，将不间断更新。
+> 这篇文章将记录比较实用的一些 Windows 命令，将不间断更新。
 
 <!-- more -->
 
